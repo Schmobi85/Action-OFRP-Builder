@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Schmobi85/twrp-device_transsion_mt6855-common'
+        default: 'https://github.com/Schmobi85/android_device_motorola_bogota.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
